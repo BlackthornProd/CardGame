@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: f83f72a8aa3a6b040a22705f70388014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2350312644692163163
+    second: brackeys_0
+  - first:
+      213: 5372635628873859745
+    second: brackeys_1
+  - first:
+      213: 5501710062502249314
+    second: brackeys_2
+  - first:
+      213: 4399692080401494875
+    second: brackeys_3
+  - first:
+      213: -4068484444144382606
+    second: brackeys_4
+  - first:
+      213: 6675048094538291003
+    second: brackeys_5
+  - first:
+      213: -2705539429575576022
+    second: brackeys_6
+  - first:
+      213: -538862995294049347
+    second: brackeys_7
+  - first:
+      213: 447647867212463101
+    second: brackeys_8
+  - first:
+      213: -8766663686470358758
+    second: brackeys_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brackeys_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 525
+        width: 185
+        height: 168
+      alignment: 9
+      pivot: {x: 0.8373477, y: 0.887635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032d51e09dd3064cbd5dc8cca357c5c
+      internalID: -2350312644692163163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 525
+        width: 53
+        height: 196
+      alignment: 9
+      pivot: {x: 0.49999943, y: 1.0053104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0a73b9a907350458e30e6eb43547ad
+      internalID: 5372635628873859745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 546
+        width: 122
+        height: 204
+      alignment: 9
+      pivot: {x: 0.23310277, y: 0.9056869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407fa9fc6e475dd409e4d752e46972b9
+      internalID: 5501710062502249314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 208
+        width: 183
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5222413, y: 0.92812186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e87f92f2009a4686b8ad095ee21ab
+      internalID: 4399692080401494875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 119
+        width: 246
+        height: 336
+      alignment: 9
+      pivot: {x: 0.47793913, y: 0.9482037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7025cb22d1d34f409d83b3efa575b03
+      internalID: -4068484444144382606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 90
+        width: 244
+        height: 398
+      alignment: 9
+      pivot: {x: 0.39435288, y: 0.9533779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a8ac44005cfa4f9dd33e12827459b
+      internalID: 6675048094538291003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_6
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 125
+        width: 315
+        height: 363
+      alignment: 9
+      pivot: {x: 0.68089616, y: 0.30938557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd798b7f007e154fb77143f89bc5bef
+      internalID: -2705539429575576022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_7
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 87
+        width: 376
+        height: 438
+      alignment: 9
+      pivot: {x: 0.43865836, y: 0.14378211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0d296e6d260e41a507ecd8a398d1a
+      internalID: -538862995294049347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_8
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 231
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab896d932e7df429025dc11798991f
+      internalID: 447647867212463101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brackeys_9
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 198
+        width: 185
+        height: 216
+      alignment: 9
+      pivot: {x: 0.536666, y: 0.29900303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1bde790aedf3f42bbe1c7e1b4b1372
+      internalID: -8766663686470358758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

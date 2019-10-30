@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 2a556b2ee23e4304f906f84e1f31fb87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3811009505967205486
+    second: ferret_0
+  - first:
+      213: 8056678756604856760
+    second: ferret_1
+  - first:
+      213: -3780460667177714424
+    second: ferret_2
+  - first:
+      213: 2179827126386588281
+    second: ferret_3
+  - first:
+      213: 746005310497951656
+    second: ferret_4
+  - first:
+      213: 8312036031867657168
+    second: ferret_5
+  - first:
+      213: 1109065669556175736
+    second: ferret_6
+  - first:
+      213: -5350695852664669691
+    second: ferret_7
+  - first:
+      213: -4673593184249355357
+    second: ferret_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ferret_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 522
+        height: 614
+      alignment: 9
+      pivot: {x: 0.7687459, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330df0349c7f16a4190a027b6108dcfd
+      internalID: 3811009505967205486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 289
+        width: 508
+        height: 487
+      alignment: 9
+      pivot: {x: 0.43361717, y: 0.029132193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dfc60c5f4782d4ca82f5b94f550ccc
+      internalID: 8056678756604856760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_2
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 351
+        width: 87
+        height: 315
+      alignment: 9
+      pivot: {x: 0.453487, y: 0.037520636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3442205bf115364ea07fcae3a5c03e4
+      internalID: -3780460667177714424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_3
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 391
+        width: 42
+        height: 211
+      alignment: 9
+      pivot: {x: 0.46788096, y: 0.92192996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad922c44a661a4a83963b402bc890d
+      internalID: 2179827126386588281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 389
+        width: 48
+        height: 238
+      alignment: 9
+      pivot: {x: 0.21898143, y: 0.9534107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf06901471f4c44b46cb6e6daab680
+      internalID: 746005310497951656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_5
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 383
+        width: 168
+        height: 282
+      alignment: 9
+      pivot: {x: 0.17080398, y: 0.4330333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e17bf798a9284383b3871f499a9f4
+      internalID: 8312036031867657168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_7
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 74
+        width: 90
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5599514, y: 0.120622635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e81c4b8a5e5ac84cabd094c0de3d005
+      internalID: -5350695852664669691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferret_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 121
+        width: 431
+        height: 208
+      alignment: 9
+      pivot: {x: 0.8880819, y: 0.66861194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899bcb8b7a0cb4c4796b43abf5ab318b
+      internalID: -4673593184249355357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

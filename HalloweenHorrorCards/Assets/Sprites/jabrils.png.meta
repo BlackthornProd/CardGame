@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 5d9432c7c37729648a38b871237d9994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2817269632942196343
+    second: jabrils_0
+  - first:
+      213: 8846714045189397690
+    second: jabrils_1
+  - first:
+      213: 9163801170460286776
+    second: jabrils_2
+  - first:
+      213: 5340539853068764610
+    second: jabrils_3
+  - first:
+      213: 5689511116719995190
+    second: jabrils_4
+  - first:
+      213: 119687917089839454
+    second: jabrils_5
+  - first:
+      213: -3143882626312215006
+    second: jabrils_6
+  - first:
+      213: -3534383919860106945
+    second: jabrils_7
+  - first:
+      213: 4416692817429368879
+    second: jabrils_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jabrils_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 613
+        width: 471
+        height: 331
+      alignment: 9
+      pivot: {x: 0.9590318, y: 0.28390864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd392f3a59080447bd5497aefc2ae5e
+      internalID: -2817269632942196343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 473
+        width: 587
+        height: 478
+      alignment: 9
+      pivot: {x: 0.45846, y: 0.17692138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16969dc0e57f0946ada2224032d2f92
+      internalID: 8846714045189397690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 772
+        width: 222
+        height: 213
+      alignment: 9
+      pivot: {x: 0.96131635, y: 0.5839503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2962b3f69ea8124fab2e5533f87a8f1
+      internalID: 9163801170460286776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_3
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 473
+        width: 229
+        height: 612
+      alignment: 9
+      pivot: {x: 0.10247403, y: 0.5212494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d0773c4d6b3b4bacf66a430863802
+      internalID: 5340539853068764610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 37
+        width: 318
+        height: 408
+      alignment: 9
+      pivot: {x: 0.71981275, y: 0.025868276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a6bacde8f9ac4891f03448d0f01cf
+      internalID: 5689511116719995190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_5
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 150
+        width: 120
+        height: 169
+      alignment: 9
+      pivot: {x: 0.445813, y: 0.03829261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a11c788ab34dc4a9098392cf415fd2
+      internalID: 119687917089839454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 169
+        width: 31
+        height: 141
+      alignment: 9
+      pivot: {x: 0.44755703, y: 0.96116066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8bf0f57890184d9ffb79e0909d435
+      internalID: -3143882626312215006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_7
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 159
+        width: 46
+        height: 150
+      alignment: 9
+      pivot: {x: 0.464658, y: 0.9443286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f166662af63d4fb9d54ddbd602610
+      internalID: -3534383919860106945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabrils_8
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cc95beba2ba24e8e5b25b8e969bf2
+      internalID: 4416692817429368879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

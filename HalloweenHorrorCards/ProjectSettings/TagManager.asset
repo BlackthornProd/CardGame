@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: card1
+    uniqueID: 1876274889
+    locked: 0
+  - name: card2
+    uniqueID: 882327179
+    locked: 0
+  - name: card3
+    uniqueID: 3915430527
+    locked: 0
+  - name: card4
+    uniqueID: 3772360387
+    locked: 0
+  - name: card5
+    uniqueID: 3388566935
+    locked: 0
+  - name: card6
+    uniqueID: 1483940915
+    locked: 0
+  - name: card7
+    uniqueID: 3890838625
+    locked: 0
+  - name: card8
+    uniqueID: 3797006173
+    locked: 0
+  - name: card9
+    uniqueID: 2042248609
+    locked: 0
+  - name: card10
+    uniqueID: 1945260025
+    locked: 0
+  - name: card11
+    uniqueID: 1359819995
+    locked: 0
+  - name: card12
+    uniqueID: 952154615
+    locked: 0
+  - name: card13
+    uniqueID: 1620380983
+    locked: 0
+  - name: card14
+    uniqueID: 3583038899
+    locked: 0
+  - name: card15
+    uniqueID: 439469337
+    locked: 0
+  - name: card16
+    uniqueID: 157543347
+    locked: 0
+  - name: card17
+    uniqueID: 2930119799
+    locked: 0
+  - name: card18
+    uniqueID: 603439115
+    locked: 0
+  - name: card19
+    uniqueID: 107147127
+    locked: 0
+  - name: card20
+    uniqueID: 1936712565
+    locked: 0
+  - name: card21
+    uniqueID: 3520891273
+    locked: 0
+  - name: card22
+    uniqueID: 2770736473
+    locked: 0
+  - name: crad23
+    uniqueID: 3343238011
+    locked: 0
+  - name: cursor
+    uniqueID: 3995768515
+    locked: 0

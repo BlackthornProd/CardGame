@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 8f90d1f260fdc8d48a438c23a7426f2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -506103186489132942
+    second: btpbros_0
+  - first:
+      213: -827930522808033508
+    second: btpbros_1
+  - first:
+      213: -532513940908522335
+    second: btpbros_2
+  - first:
+      213: -4121812978473216983
+    second: btpbros_3
+  - first:
+      213: -1398118240175839088
+    second: btpbros_4
+  - first:
+      213: 648425669904359720
+    second: btpbros_5
+  - first:
+      213: -2313375720322416865
+    second: btpbros_6
+  - first:
+      213: -4441004252288757630
+    second: btpbros_7
+  - first:
+      213: -8578135562055632843
+    second: btpbros_8
+  - first:
+      213: 7234692168458840595
+    second: btpbros_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: btpbros_0
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 990
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.8695706, y: 0.7402208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5eab42b5404d4469327a9a29af6c5b
+      internalID: -506103186489132942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 997
+        width: 103
+        height: 83
+      alignment: 9
+      pivot: {x: 0.09634429, y: 0.8406277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4ed9658675e2479a64af94c8b6b4a
+      internalID: -827930522808033508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 757
+        width: 140
+        height: 233
+      alignment: 9
+      pivot: {x: 0.47012457, y: 0.09140278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff1291665a48b84abbc7c5779f056e0
+      internalID: -532513940908522335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 990
+        width: 103
+        height: 98
+      alignment: 9
+      pivot: {x: 0.87136453, y: 0.7375812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438f1d76102628459371d5b184eedeb
+      internalID: -4121812978473216983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1020
+        width: 103
+        height: 63
+      alignment: 9
+      pivot: {x: 0.08019723, y: 0.8431726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847745dae753ff4e8046d946e41f7fa
+      internalID: -1398118240175839088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_5
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 771
+        width: 138
+        height: 223
+      alignment: 9
+      pivot: {x: 0.46384683, y: 0.067454524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ddc44302514f429392608bb8efb6e
+      internalID: 648425669904359720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 423
+        width: 359
+        height: 334
+      alignment: 9
+      pivot: {x: 0.57412, y: 0.066806905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cade5ce8e6bff4aa176dc1acad4f8b
+      internalID: -2313375720322416865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 451
+        width: 311
+        height: 323
+      alignment: 9
+      pivot: {x: 0.47861022, y: 0.0520542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77932bbe60aabc4c9938bcb777e916a
+      internalID: -4441004252288757630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 842
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e554afa441e13c04c8d4dd3cfc562686
+      internalID: -8578135562055632843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btpbros_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 41
+        width: 313
+        height: 713
+      alignment: 9
+      pivot: {x: 0.3459143, y: 0.27608117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b458f5de95210dc44ab3168115be4292
+      internalID: 7234692168458840595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
